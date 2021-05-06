@@ -15,7 +15,7 @@ d = float(input('実数dを入力:'))
 print('実数c:', c)
 print('実数d:', d)
 
-r = float(input('球のの半径'))
+r = float(input('球の半径'))
 PI = 3.14159
 volume = 4/3 * PI * r**3
 print('球の体積は,', volume, '[m^3]です.')
