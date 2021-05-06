@@ -10,10 +10,10 @@
 # print('変数a:', a)
 # print('変数b:', b)
 
-c = float(input('実数aを入力:'))
-d = float(input('実数bを入力:'))
-print('実数a:', c)
-print('実数b:', d)
+c = float(input('実数cを入力:'))
+d = float(input('実数dを入力:'))
+print('実数c:', c)
+print('実数d:', d)
 
 r = float(input('球のの半径'))
 PI = 3.14159
