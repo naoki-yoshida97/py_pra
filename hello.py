@@ -1,2 +1,1 @@
-print('hello worldcd
-      ')
+print('hello worldcd')

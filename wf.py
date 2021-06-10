@@ -37,12 +37,12 @@ for i in range(h):
     # print(h)
     for j in range(w):
         # print(w)
-        if i % 2 == 0:
+        if (i+j) % 2 == 0:
             print('□', end='')
-            print('■', end='')
+            # print('■', end='')
         else:
             print('■', end='')
-            print('□', end='')
+            # print('□', end='')
     print()
 
     # for j in range(w):
