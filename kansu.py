@@ -13,9 +13,11 @@
 
 def jugge_odd(num):
     if num % 2 == 1:
-        s = '奇数'
+        return '奇数'
+        # return s
     else:
-        s = '偶数'
+        return '偶数'
+        # return s
 
 
 while True:
@@ -24,4 +26,4 @@ while True:
         print('終了')
         break
     else:
-        print('入力されたのは', s, 'です')
+        print('入力されたのは', jugge_odd(n), 'です')
